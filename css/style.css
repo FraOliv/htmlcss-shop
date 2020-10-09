@@ -5,7 +5,7 @@
   background-color: white;
   padding: 1%;
 }
-.immagine{
+.product{
   width: 300px;
   position: relative;
   display: inline-block;
@@ -38,7 +38,7 @@
 
 /* Quando il mouse passa sopra la classe "immagine"
 assegna questi attributi alla classe cuore */
-.immagine:hover .cuore{
+.product:hover .cuore{
   display: block;
 }
 /* Fine delle proprietà relative agli elementi all'interno delle immagini */
