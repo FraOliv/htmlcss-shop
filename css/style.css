@@ -1,0 +1,25 @@
+
+#container{
+  width: 1000px;
+  margin: auto;
+  background-color: white;
+}
+.immagine{
+  width: 300px;
+  position: relative;
+  display: inline-block;
+}
+.sconto {
+  display:block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: green;
+}
+#sconto_rosso{
+  display:block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: red;
+}
