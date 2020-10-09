@@ -36,7 +36,7 @@
 
 }
 
-/* Quando il mouse passa sopra la classe "immagine"
+/* Quando il mouse passa sopra la classe "product"
 assegna questi attributi alla classe cuore */
 .product:hover .cuore{
   display: block;
