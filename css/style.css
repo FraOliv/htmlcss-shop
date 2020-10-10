@@ -10,7 +10,7 @@
   position: relative;
   display: inline-block;
 }
-/* Inizio delle proprietà relative agli elementi all'interno delle immagini */
+/* Inizio delle proprietà relative agli elementi all'interno delle product */
 .sconto {
   display:block;
   position: absolute;
@@ -41,4 +41,4 @@ assegna questi attributi alla classe cuore */
 .product:hover .cuore{
   display: block;
 }
-/* Fine delle proprietà relative agli elementi all'interno delle immagini */
+/* Fine delle proprietà relative agli elementi all'interno delle product */
