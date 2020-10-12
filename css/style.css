@@ -4,11 +4,14 @@
   margin: auto;
   background-color: white;
   padding: 1%;
+  text-align: center;
 }
 .product{
   width: 300px;
   position: relative;
   display: inline-block;
+  text-align: center;
+  cursor: pointer;
 }
 /* Inizio delle proprietà relative agli elementi all'interno delle product */
 .sconto {
@@ -33,6 +36,7 @@
   left: 50%;
   color: red;
   display: none;
+  font-size: 2em;
 
 }
 
