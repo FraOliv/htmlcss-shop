@@ -19,15 +19,13 @@
   position: absolute;
   top: 0;
   right: 0;
-  background-color: green;
 }
 /* Ricordati il display block quando usi position absolute */
-#sconto_rosso{
-  display:block;
-  position: absolute;
-  top: 0;
-  right: 0;
+.red{
   background-color: red;
+}
+.green{
+  background-color: green;
 }
 
 .cuore{
